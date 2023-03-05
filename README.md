@@ -5,8 +5,11 @@
 [![mi imagen no cargo :(](https://raw.githubusercontent.com/pablobrajus/pablobrajus/main/imagen_presentacion.png)](http://www.pablobrajusdev.com.ar)
 
 
-- :grey_question:Donde esta mi portafolio? [Pagina Web Personal](https://www.pablobrajusdev.com.ar):exclamation:
 - :boom:Aprendiendo e Investigando acerca de Machine Learning
+
+### Ver mi trabajo!
+- :grey_question:Donde esta mi portafolio? [Pagina Web Personal](https://www.pablobrajusdev.com.ar):exclamation:
+
 
 ### Redes Sociales:
 
