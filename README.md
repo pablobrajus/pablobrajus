@@ -8,9 +8,9 @@
 - :grey_question:Donde esta mi portafolio? [Pagina Web Personal](https://www.pablobrajusdev.com.ar):exclamation:
 - :boom:Aprendiendo e Investigando acerca de Machine Learning
 
-##Redes sociales!
+###Redes sociales!
 -[Linkedin](https://www.google.com.ar )...Pronto :exclamation:
 
-##Contacto
+###Contacto
 -:email:[pablobrajus@gmail.com](mailto:pablobrajus@gmail.com)
 
