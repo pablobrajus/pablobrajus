@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- :snake:Python Programing  | :monkey_face: Web Full Stack Developer en progreso! 
+ :snake:Python Programing | :monkey_face: Web Full Stack Developer en progreso! | Aprendiendo Machile Learning
 
 [![mi imagen no cargo :(](https://raw.githubusercontent.com/pablobrajus/pablobrajus/main/imagen_presentacion.png)](http://www.pablobrajusdev.com.ar)
 
